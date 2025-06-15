@@ -1,4 +1,4 @@
 # First-repo
 This is my first Git Repository.
 <br>
-Author- Mhuhammad Waqas.
+Author- Waqas Afridi.
